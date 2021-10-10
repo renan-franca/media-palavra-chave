@@ -11,4 +11,4 @@ Pode ser utilizado para descobrir boas oportunidades de palavras-chave muito bus
 !pip install pytrends
 ```
 ## Como usar
-Você pode clonar o projeto e editar o arquivo Main.py, adicionado as palavras-chave que você gostaria de consultar e selecionando o período de tempo. Ao rodar o código, você verá o print no console das médias de todas as palavras-chave. Além disso, será gerada uma planilha .csv com todas as palavras-chaves e suas médias durante o período de tempo selecionado.
+Você pode clonar o projeto e editar o arquivo main-keyword.py, adicionado as palavras-chave que você gostaria de consultar e selecionando o período de tempo. Ao rodar o código, você verá o print no console das médias de todas as palavras-chave. Além disso, será gerada uma planilha .csv com todas as palavras-chaves e suas médias durante o período de tempo selecionado.
