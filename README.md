@@ -8,7 +8,7 @@ O projeto foi desenvolvido como trabalho final da disciplina de Pensamento Compu
 O repóstório é simples. Além do compartilhamento do código, a página da licença escolhida, há o arquivo README.md em que existe uma explicação sobre os detalhes e as motivações do trabalho. 
 
 ## Por que o projeto foi criado?
-O projeto foi feito para descobrir boas oportunidades de palavras-chave muito buscadas e que se mantêm estáveis ao longo do tempo no Google Trends. A ferramenta permite comparar mais de 5 buscas de palavras-chave ao longo do tempo. O Google Trends é uma boa ferramenta, mas a opção padrão disponível (https://trends.google.com.br/trends/) permite a busca de, no máximo, 5 palavras de cada vez.
+O projeto foi feito para descobrir boas oportunidades de palavras-chave muito buscadas e que se mantêm estáveis ao longo do tempo no [Google Trends](https://trends.google.com.br/trends/). A ferramenta é boa, mas a opção padrão disponível não permite comparar mais de 5 buscas de palavras-chave ao longo do tempo.
 
 ## Objetivo
 Usar uma API do Google Trends para criar um programa que me permita buscar a média de buscas de cada palavra-chave e não fique restrito a apenas a 5 buscas.
